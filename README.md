@@ -1,6 +1,6 @@
 📊 COVID-19 Excel Data Dashboard Project
 ----------------------------------------
-✅ Project Overview
+✅ Project Overview - 
 This project is a comprehensive data dashboard built in Microsoft Excel to visualize and analyze COVID-19 statistics across different states and zones in India. It helps users understand infection trends, death ratios, regional impacts, and overall case distribution with interactive visuals.
 
 🧱 Key Components
