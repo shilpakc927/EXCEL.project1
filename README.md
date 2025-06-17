@@ -25,8 +25,8 @@ This project is a data analysis dashboard developed using **Microsoft Excel** to
 
 
 ## 📁 Files Included
-- `covid19_data_project1.xlsx` – Excel file with dashboard and raw data
-- `/images/covid_dashboard.png` – Dashboard preview image
+- `covid19_data_project1.xlsx.xslx` – Excel file with dashboard and raw data
+- `ecxel project.pdf` – Dashboard preview image
 
 ## 🚀 Outcome
 This dashboard simulates a real-time COVID-19 tracker and demonstrates how data visualization can support quick interpretation and health-related decision-making.
