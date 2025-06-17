@@ -23,14 +23,12 @@ This project is a data analysis dashboard developed using **Microsoft Excel** to
 - **Deaths vs Active Cases** chart reveals regions with higher fatality trends.
 - Easy filtering allows state-wise tracking of COVID-19 impact.
 
+## 🚀 Outcome
+This dashboard simulates a real-time COVID-19 tracker and demonstrates how data visualization can support quick interpretation and health-related decision-making.
 
 ## 📁 Files Included
 - `covid19_data_project1.xlsx.xslx` – Excel file with dashboard and raw data
 - `ecxel project.pdf` – Dashboard preview image
-
-## 🚀 Outcome
-This dashboard simulates a real-time COVID-19 tracker and demonstrates how data visualization can support quick interpretation and health-related decision-making.
-
 ---
 
 > **Developed by**: [shilpa k c]  
