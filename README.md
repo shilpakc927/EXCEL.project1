@@ -37,7 +37,7 @@ This dashboard simulates a real-time COVID-19 tracker and demonstrates how data 
 ---
 ## 📸 Project Screenshots
 
-- [Dashboard Screenshot](Screenshot%20191.png)
+- [Dashboard Screenshot](Screenshot%2091.png)
 
 ---  
 > **Developed by**: [shilpa k c]  
