@@ -35,7 +35,7 @@ This dashboard simulates a real-time COVID-19 tracker and demonstrates how data 
 - `covid19_data_project1.xlsx.xslx` – Excel file with dashboard and raw data
 - `Ecxel project.pdf` – Dashboard preview image
 ---
-## 📸 Project Screenshots
+## 📸 Project Screenshot
 
 - [Dashboard Screenshot](Screenshot%2091.png)
 
